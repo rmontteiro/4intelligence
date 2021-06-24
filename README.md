@@ -20,3 +20,6 @@ agora com o botão direito selecione o caminho de localização do dataset dentr
 
 Cole o endereço na linha de comando com o título '#CARREGANDO ARQUIVO XLSX'
 ![image](https://user-images.githubusercontent.com/56310695/123095202-32131080-d404-11eb-98b6-577df41e1b59.png)
+
+As respostas se encontram ao longo do exercicio de modelagem implementado no notebook e foram compiladas em um arquivo odt.
+Para eventual visualização de conferencia foram exportados os datasetes de correlação geral bem como os de estatística descritiva por regiões, sendo os mesmos apenas um produto adicional do trabalho desenvolvido em linhas de código, sem qualquer manipulação via editor de planilhas eletrônicas.
